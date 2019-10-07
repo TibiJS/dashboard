@@ -9,9 +9,7 @@ const useStyles = makeStyles(theme => ({
   appBar: {
     zIndex: theme.zIndex.drawer + 1,
     height: 70,
-    right: 'auto',
     background: '#FFFF',
-    maxWidth: 1440,
     boxShadow: '0px 1px 0px #0000000F'
   },
   headerImg: {

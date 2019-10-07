@@ -17,7 +17,8 @@ const styles = {
     background: '#373737 0% 0% no-repeat padding-box',
     color: '#FFF',
     top: '70px',
-    position: 'relative'
+    position: 'relative',
+    height: '100vh'
   },
   selected: {
     background: '#257A91',
